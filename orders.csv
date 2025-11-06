@@ -1,0 +1,8 @@
+order_id,created_at,email,full_name,phone,address,payment_type,products,total,status
+1,2025-11-06 16:42:11,kanhakumarsamantray@gmail.com ,Rabindra samantray ,79786692808,"KANDHANUAPALLI
+JHADABHUMI ",UPI / QR,Pink Shirt,2528,Out for Delivery
+2,2025-11-06 16:43:26,kanhakumarsamantray@gmail.com  ,Rabindra samantray,79786692808,"KANDHANUAPALLI
+JHADABHUMI ",Cash on Delivery,Black Shirt,2537,Pending
+3,2025-11-06 16:51:55,kanhakumarsamantray@gmail.com  ,Rabindra samantray  ,79786692808,"KANDHANUAPALLI
+JHADABHUMI  ",Card,White Shirt,2017,Pending
+4,2025-11-06 20:04:01,kumarbedant2306@gmail.com,Kumar routa,1636668288,Cutm,Cash on Delivery,Pink Shirt,1990,Pending
